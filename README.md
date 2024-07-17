@@ -10,7 +10,6 @@ cd automatica_project
 
 В директории где находится файл ".env.example" создайте файл ".env" и заполните его в соответствии с ".env.example" своими данными подключения к бд PostgreSQL
 
-
 Выполните команды
 ``` 
 poetry install 
