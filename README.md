@@ -8,7 +8,8 @@ git clone git@github.com:goaho7/automatica_project.git
 cd automatica_project 
 ``` 
 
-В директории где находится файл ".env.example" создайте файл ".env" и заполните его в соответствии с ".env.example" своими данными подключения к бд PostgreSQL
+В директории где находится файл ".env.example" создайте файл ".env" и заполните его
+в соответствии с ".env.example" своими данными подключения к бд PostgreSQL
 
 
 Выполните команды
